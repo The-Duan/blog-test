@@ -15,7 +15,7 @@
 `html`
 `js`
 等
-我来给写一段给你悄悄吧。
+我来给写一段给你瞧瞧吧。
 
 ```javascript
 function f(){
