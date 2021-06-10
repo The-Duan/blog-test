@@ -1,25 +1,31 @@
 # 自我介绍
-大家好，我叫The-Duan 我的爱好是
+大家好，我叫The-Duan   
+关于第一次写博客，这次博客用到的是
+`Markdown`
+语言
 
-* 女
-* 打游戏
-  
+我学习了
+`git本地仓库`
+里面的
+1. 增
+2. 删
+3. 改
+4. 查
 
-我喜欢的明星有
+还学习了
+`远程仓库`
+的
+* 上传
+* 下载
 
-1. 刘亦菲
-2. 戴大梨
-3. 苍井空 
-
-我现在在学习前端，我学习的语言有
-`html`
-`js`
-等
-我来给写一段给你瞧瞧吧。
+这是终端的简化命令
 
 ```javascript
-function f(){
-  console.log('hello world')
-}
-f()
+touch ~/.bashrc
+echo 'alias ga="git add"'>> ~/.bashrc
+echo 'alias gc="git commit -v"'>> ~/.bashrc
+echo 'alias gl="git pull"'>> ~/.bashrc
+echo 'alias gp="git push"'>> ~/.bashrc
+echo 'alias gco="git checkout"'>> ~/.bashrc
+echo 'alias gst="git status -sb"'>> ~/.bashrc
 ```
